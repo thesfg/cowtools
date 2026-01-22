@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+if [[ -z "$1" ]]; then
+    echo "Usage: moo moo [file]"
+    exit 1
+fi
+
+if [[ ! -f "$1" ]]; then
+    echo "File not found: $1"
+    exit 1
+fi
+
+xxd -b "$1" | cut -d' ' -f2-7 | tr -d ' \n' | sed 's/1/m/g; s/0/o/g'
+echo
