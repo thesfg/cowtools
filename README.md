@@ -2,7 +2,7 @@
 
 ------READ_ME--------
 
-Cow_Tools_Utility_v0.1 is a file prongling tool that is somewhat 
+Cow_Tools_Utility_0.1 is a file prongling tool that is somewhat 
 lacking in sophistication for Linux. It reads the binary data of a file and displays 
 the values into "MOOlean" output, meaning it converts "1" to "m" and "0" to "o". It is non-destructive, does not have a 
 save feature, and does not alter the files or system in any way. 
