@@ -11,11 +11,15 @@ This is a simple homage I made to The Far Side Comic "Cow Tools" by Gary Larson.
 I am not affiliated with The Far Side nor Gary Larson, this is a fan-made work.  
 
 -------------
-To install, extract to /bin/.
+To install, clone this repo and add it to your PATH in ~/.bashrc or ~/.zshrc:
+
+    export PATH="$PATH:/path/to/cowtools"
+
+Then restart your terminal or run `source ~/.bashrc`.
 
 To start "Cow_Tools_Utility" type 'moo' on the command line.
 
-You must be in the directory of the file for 'moo' to work. 
+You must be in the directory of the file for 'moo' to work.
 --------------
 
 "It's time to face reality, my friends ... We're not exactly rocket scientists." 
