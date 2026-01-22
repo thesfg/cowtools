@@ -10,8 +10,6 @@ save feature, and does not alter the files or system in any way.
 This is a simple homage I made to The Far Side Comic "Cow Tools" by Gary Larson. 
 I am not affiliated with The Far Side nor Gary Larson, this is a fan-made work.  
 
--shelby 
-
 -------------
 To install, extract to /bin/.
 
