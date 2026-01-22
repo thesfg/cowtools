@@ -18,4 +18,4 @@ To install, extract to /bin/.
 To start "Cow_Tools_Utility" type 'moo' on the command line.
 --------------
 
-"It's time to face reality, my friends ... We're not exactly rocket sceintists." 
+"It's time to face reality, my friends ... We're not exactly rocket scientists." 
